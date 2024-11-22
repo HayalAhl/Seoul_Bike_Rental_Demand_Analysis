@@ -1,6 +1,6 @@
 # Seoul Bike Rental Demand Analysis
 
-![logo](images/bikedemand.jpeg)
+![logo](bikedemand.jpeg)
 
 ## Introduction
 
@@ -40,5 +40,5 @@ This study shows that bike rentals are influenced by a variety of features. From
 
 You can check below the result of the deployment of our machine learning model: the Extra Trees Regressor, which had the best score among the tested models.
 
-![result](images/final.PNG)
+![result](final.PNG)
 
